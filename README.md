@@ -1,3 +1,3 @@
 # stepik_QA
 tenses from stepik
-Nana fithing
+https://stepik.org/course/575
